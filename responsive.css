@@ -1,0 +1,300 @@
+@media all and (max-width:1240px) {
+    .container {
+        width: 100%;
+    }
+    .menu-left h1 {
+        font-size: 40px;
+    }
+    .menu-right ul li a {
+        padding: 0px 15px;
+        font-size: 18px;
+    }
+    .menu-left h1 {
+        line-height: 38px;
+    }
+    .menu-right ul li a {
+        line-height: 43px;
+    }
+    .service-item {
+        margin-left: 22px;
+    }
+    .img-div img {
+        max-width: 100%;
+    }
+    .about-us p {
+        margin-bottom: 4px;
+        font-size: 11px;
+    }
+    .main-contuct {
+        margin-left: 44px;
+    }
+    .contuct-us {
+        margin-left: 60px;
+    }
+    .service-one {
+        margin-left: 0;
+    }
+    .service-item h1 {
+        font-size: 15px;
+    }
+    .service-item {
+        width: 22%;
+    }
+    .main-contuct {
+        margin-left: 0px !important;
+    }
+    .contuct-us {
+        margin-left: 0px !important;
+    }
+}
+
+
+
+
+
+@media all and ( max-width:992px){
+    .menu-right ul {
+        text-align: right;
+    }
+    .container {
+        width: 100%;
+    }
+    .menu-right ul li a {
+        padding: 0px 9px;
+    }
+    .menu-left h1 {
+        font-size: 31px;
+    }
+    .menu-right ul li a {
+        padding: 0px 10px;
+        font-size: 15px;
+    }
+    .banner-caption h1 {
+        font-size: 35px;
+    }
+    .banner-caption h4 {
+        font-size: 15px;
+    }
+    .service-one {
+        margin-left: 4px;
+    }
+    .about-us h3 {
+        margin-bottom: 5px;
+    }
+    .about-sec {
+        padding: 40px;
+    }
+    .main-contuct {
+        margin-left: -5px;
+    }
+}   
+@media all and ( max-width:768px){
+    .menu-right ul li a {
+        padding: 0px 6px;
+        font-size: 11px;
+    }
+    .menu-left h1 {
+        font-size: 23px;
+    }
+    .menu-right ul li a {
+        padding: 0px 4px;
+        font-size: 13px;
+    }
+    .menu-right ul {
+        text-align: center;
+    }
+    .banner {
+        padding: 110px;
+    }
+    .service-item {
+        margin-left: 74px;
+        margin-bottom: 21px;
+    }
+    .service {
+        padding: 0px;
+    }
+    .service-one {
+        padding: 40px;
+    }
+    .service-one {
+        margin-left: 50px;
+    }
+    .about-us p {
+        font-size: 7px;
+    }
+    .about p {
+        font-size: 10px;
+    }
+    .banner-caption button a {
+        font-size: 12px;
+    }
+    .contuct-us {
+        width: 15%;
+    }
+    .main-contuct {
+        display: block;
+    }
+    .contuct-us {
+        margin-left: 90px;
+    }
+    .contuct-us {
+        width: 100%;
+        margin: 20px 0px !important;
+    }
+    .main-contuct .contuct-us:nth-child(3) {
+        margin-bottom: 0px !important;
+    }
+}
+@media all and ( max-width:580px){
+    .menu {
+        text-align: center;
+    }
+    .menu-left {
+        float: none;
+        width: 100%;
+    }
+    .menu-right {
+        float:none;
+        width: 100%;
+    }
+    .banner {
+        padding: 80px;
+    }
+    .banner-caption h1 {
+        font-size: 35px;
+    }
+    .banner-caption h1 {
+        font-size: 25px;
+    }
+    .banner-caption h4 {
+        font-size: 10px;
+    }
+    .banner-caption button a {
+        padding: 6px;
+        font-size: 12px;
+    }
+    .service p {
+        font-size: 18px;
+    }
+    .service-item {
+        width: 55%;
+    }
+    .service-item {
+        margin-left: 130px;
+    }
+    .service-item span {
+        font-size: 35px;
+    }
+    .service-item {
+        margin-left: 40px;
+    }
+    .image-left {
+        float: none;
+        width: 100%;
+    }
+    .image-right {
+        float: none;
+        width: 100%;
+    }
+    .contuct h3 {
+        padding: 11px;
+        font-size: 26px;
+    }
+    .contuct p {
+        font-size: 12px;
+    }
+    .contuct-us {
+        margin-left: 180px;
+        float: none;
+        margin-top: 30px;
+    }
+    .list li a {
+        font-size: 18px;
+    }
+}
+@media all and ( max-width:420px){
+    .menu-right ul {
+        text-align: center;
+    }
+    .menu-right ul li a {
+        font-size: 9px;
+    }
+    .banner-caption h1 {
+        font-size: 15px;
+    }
+    .banner {
+        padding: 53px;
+    }
+    .banner-caption h4 {
+        font-size: 6px;
+    }
+    .banner-caption button a {
+        font-size: 8px;
+    }
+    .service h1 {
+        font-size: 35px;
+    }
+    .service p {
+        font-size: 9px;
+    }
+    .service-item span {
+        font-size: 35px;
+    }
+    .service-item h1 {
+        font-size: 11px;
+    }
+    .service-item p {
+        font-size: 10px;
+    }
+    .service-item {
+        margin-left: 27px;
+    }
+    .contuct-us {
+        margin-left: 129px;
+    }
+    .footer p {
+        background: #222222;
+        color: #414141;
+        text-align: center;
+        padding: 20px;
+        font-size: 13px;
+    }
+    .footer-bottom {
+        padding: 0px;
+    }
+    .footer p {
+        color: white;
+        padding: 10px;
+    }
+}
+@media all and ( max-width:320px){
+    .menu-right ul li a {
+        font-size: 8px;
+    }
+    .service-item {
+        margin-left: 18px;
+    }
+    .contuct-us h4 {
+        font-size: 12px;
+    }
+    .contuct-us {
+        margin-left: 116px;
+    }
+    .contuct-us {
+        margin-left: 180px;
+        float: none;
+        margin-top: 20px;
+    }
+    .contuct-us {
+        margin-left: 123px;
+    }
+    .footer p {
+        font-size: 11px;
+    }
+    .footer p {
+        font-size: 10px;
+    }
+}
+@media all and ( max-width:280px){
+    
+}
